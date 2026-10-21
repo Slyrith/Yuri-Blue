@@ -1,9 +1,9 @@
 <div align="center">
 
-<img width="736" height="975" alt="5a87ef96c578c6b60e0c6cfe397e9612" src="https://github.com/user-attachments/assets/4938e4cb-70d1-46a5-a313-2c55baf60b0a" />
+<img width="436" height="575" alt="5a87ef96c578c6b60e0c6cfe397e9612" src="https://github.com/user-attachments/assets/4938e4cb-70d1-46a5-a313-2c55baf60b0a" />
 
 ### Yuri-Blue
-Simple Blue Archive cheeto
+Simple Blue Archive cheeto<br>
 https://discord.gg/DvP8UxQP3J
 </div>
 
