@@ -1,10 +1,12 @@
 <div align="center">
 
-<img width="436" height="575" alt="5a87ef96c578c6b60e0c6cfe397e9612" src="https://github.com/user-attachments/assets/4938e4cb-70d1-46a5-a313-2c55baf60b0a" />
+<img width="436" height="472" alt="yuri" src="https://github.com/user-attachments/assets/02bf83fc-991e-45fd-a1ea-970643aae237" />
 
 ### Yuri-Blue
 Simple Blue Archive cheeto<br>
-https://discord.gg/DvP8UxQP3J
+[![Downloads](https://img.shields.io/github/downloads/Slyrith/Yuri-Blue/total)](https://github.com/Slyrith/Yuri-Blue/releases)
+[![Release](https://img.shields.io/github/v/release/Slyrith/Yuri-Blue)](https://github.com/Slyrith/Yuri-Blue/releases/latest)
+[![Discord members](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdiscord.com%2Fapi%2Fv10%2Finvites%2FDvP8UxQP3J%3Fwith_counts%3Dtrue&query=%24.approximate_member_count&label=Discord&suffix=%20members&logo=discord&logoColor=white&color=5865F2)](https://discord.gg/DvP8UxQP3J)
 </div>
 
 ## Getting Started
